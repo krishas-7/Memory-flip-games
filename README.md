@@ -3,3 +3,5 @@ This is my second year Java mini project . “Memory Flip Game” is a Java Swin
 
 Abstract: 
 This desktop game launches with a name‐entry prompt, then displays a 4×4 grid of face‑down tiles. Clicking reveals values to be matched in pairs. There are three timed levels—60 s (letters), 50 s (numbers), 40 s (fruit names)—with real‑time scoring and level progression. Control buttons let you pause/resume, restart, exit, or view the Leaderboard (persisted in CSV). If time expires or all pairs are found, the game ends (or advances), logging name, date, time, and level‑wise scores for ranking.
+
+Author - Krisha Shah
